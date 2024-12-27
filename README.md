@@ -30,7 +30,7 @@ Before running the project locally, ensure you have the following installed:
 1. **Clone the Repository**
 
 First, clone the repository to your local machine using Git:
-git clone https://github.com/Kaaaarrrttik/EmployeesManagementSystem-ASPNET-MVC-Application.git
+git clone https://github.com/kartik-shekhawat/EmployeesManagementSystem-ASPNET-MVC-Application
 
 
 2. **Setup the Database**
